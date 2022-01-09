@@ -7,7 +7,7 @@
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance T3Cloud!</h2>
-
+<p>Hello World, Welcome to the T3Cloud, We are happy to help you.</p>
 
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
