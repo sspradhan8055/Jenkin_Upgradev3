@@ -7,6 +7,7 @@
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance T3Cloud!</h2>
+<h3>Modified the Build Pipeline to Dev - Prod</h3>
 <p>Hello World, Welcome to the T3Cloud, We are happy to help you.</p>
 
 
