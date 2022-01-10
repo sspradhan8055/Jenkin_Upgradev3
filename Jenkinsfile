@@ -1,7 +1,7 @@
 pipeline {
       agent any
       stages {
-            stage('Init') {
+            steps('Init') {
                   steps {
                         echo 'Hi, this is Anshul from LevelUp360'
                         echo 'We are Starting the Testing'
